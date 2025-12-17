@@ -1,0 +1,26 @@
+#css-image {
+    border: 4px solid green;
+}
+
+[alt="javascript roadmap"] {
+    border: 4px solid hotpink;
+}
+
+p b {
+    /* display: none; */
+    visibility: hidden;
+    /* opacity: 0; */
+    /* pointer-events: none; */
+}
+
+.green-link{
+    color: green;
+    border: 2px solid red ;
+    font-weight: 800;
+}
+
+.wavy-link{
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+

@@ -1,0 +1,1 @@
+// hum jo bhi html likhte behin the scene sab node banta h NODETYPE alag alag hota h chahe vo comment ho element everything . jis bhi element ka nodetyoe dekhna h devtools me ja vo element pae click kar aur uski property open karke uska NODETYPE  NODENAME dekh sakte h.
