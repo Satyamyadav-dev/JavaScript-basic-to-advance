@@ -48,5 +48,5 @@ An **execution context** is the environment in which JavaScript code is executed
 - Global context loads first, followed by function contexts (pushed and popped as needed).*/
 
 
-// 1.dekh sari baate global execution phase me hoti h agar koi const or let se variable creat kiya hu to direct 'script' ke andar dikh jayega . 
-// 2. par agar koi function create kar kiya to uska 'local' me pahle local memory creation hoga phir local memory execution phase hoga . suppose agar kisi ek function ke andar dusre function ko call kar raha hu to to jis function ke andar call kiya uske local memory execution me call wale function ka local memory creation phase and local memory execution phase hoga  like add ko sayHi me call h . diagram dekh samjh jayega.
+// 1.dekh sari baate global execution phase me hoti h agar koi const or let se variable create kiya hu to direct 'script' ke andar dikh jayega . 
+// 2. par agar koi function create kar kiya to uska 'local' me pahle local memory creation hoga phir local memory execution phase hoga . suppose agar kisi ek function ke andar dusre function ko call kar raha hu to  jis function ke andar call kiya uske local memory execution me call wale function ka local memory creation phase and local memory execution phase hoga  like add ko sayHi me call h . diagram dekh samjh jayega.

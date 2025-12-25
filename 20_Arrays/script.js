@@ -9,7 +9,7 @@ const fruitName = ['Apple', 'Banana' , 'Grapes', 'Dates']
 // console.log(fruitName[4] = 'lichi');
 
 
-// vaise hum js me array ke andar multiple objects and arrays bhi rakh par apne ko pta arrays is a collection of same datatpes of elements.
+// vaise hum js me array ke andar multiple objects and arrays bhi rakh par apne ko pta arrays is a collection of same datatypes of elements.
 
 const rainbowColors = ['violet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red']
 

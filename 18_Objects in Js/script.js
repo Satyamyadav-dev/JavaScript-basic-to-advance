@@ -1,5 +1,8 @@
  const user = {
-    firstName: 'Akash',lastName : 'singh',education: '12',city:'Banglore'
+    firstName: 'Akash',
+    lastName : 'singh',
+    education: '12',
+    city:'Banglore'
 }
 
 // object ko humm {} ke andar likhte ye key:value consists karta h aur key:value ke comma(,) dena important h

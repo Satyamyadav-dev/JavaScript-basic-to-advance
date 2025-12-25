@@ -2,7 +2,9 @@ const green = document.querySelector('.green')
 const pink = document.querySelector('.pink')
 const blue = document.querySelector('.blue')
 
-// Event Bubbling -> iska matlab h ki agar hum kisi children ko click karte h to uske pure parent ko 'click' hota h .like here i applied eventlistener only on green but i click green,pink,blue means it will also click parent body,document and window. like jaise talab me stone throw karne par pure talab me waves generate hota h.
+// Event Bubbling -> iska matlab h ki agar hum kisi children ko click karte h to uske pure parent ko 'click' hota h .
+// like here i applied eventlistener only on green but i click green,pink,blue means it will also click parent body,document and window. 
+// like jaise talab me stone throw karne par pure talab me waves generate hota h.
 
 window.addEventListener('click', (e)=>{
     console.log('5.window Event Listner');

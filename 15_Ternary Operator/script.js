@@ -2,7 +2,7 @@ const userName = true ? 'true hoga to' : 'false hoga to'
 
 const a = 5>13 ? 'yes' : 'no'
 
-// ? ke pahle kuchh bhi ecpresion daalna hota to pahle javascript usko true,false convert karega phir agar true aaya to first wala return hoga else second.
+// ? ke pahle kuchh bhi expresion daalna hota to pahle javascript usko true,false convert karega phir agar true aaya to first wala return hoga else second.
 
 // javascript falsy value 
 // 0,-0,null,'',undefined,NaN. ye falsy value ke liye second value return hoga . matlab false huaa to second value aayega agar true h to first value.

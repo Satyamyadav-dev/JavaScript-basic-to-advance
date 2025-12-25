@@ -5,7 +5,8 @@ const colors = ['orange', 'Blue', 'Violet','White', 'Yellow']
 // const color2 = colors[1]
 // const color3 = colors[2]
 
-//Destructuring -> Destructuring ka use se ek bar me  variable and value ko declare and access kar sakte h.isme  array ko create karte h left side me achha isko array mat samjhana  kyu ki hum  array to equal to(=) ke right side me create karte h.samjhate h  [color1, color2, color3] = colors ,iska kya right me jo 'colors' vo ye bta raha h ki colors name se koi array h vha se value access karna h. [color1, color2, color3] jo color1 h uska matlab h ki colors array ke index0 par jo element h usko color1 me daal do matlab ye variable aur access dono ka kaam kar raha h. similary for others also
+//Destructuring -> Destructuring ka use se ek bar me  variable and value ko declare and access kar sakte h.isme  array ko create karte h left side me achha isko array mat samjhana  kyu ki hum  array to equal to(=) ke right side me create karte h.
+// samjhate h  [color1, color2, color3] = colors ,iska kya right me jo 'colors' vo ye bta raha h ki colors name se koi array h vha se value access karna h. [color1, color2, color3] jo color1 h uska matlab h ki colors array ke index0 par jo element h usko color1 me daal do matlab ye variable aur access dono ka kaam kar raha h. similary for others also
 
 const [color1, color2, color3] = colors //commoly used isme varible name kuchh de sakte h vo serial wise hi uthata h
 // console.log(color4);

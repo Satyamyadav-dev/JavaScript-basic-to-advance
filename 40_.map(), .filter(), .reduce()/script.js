@@ -13,16 +13,19 @@ const capitalMonth1 = months.map((month, index, array) => {
 
 const myNum = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-const num = myNum.map( (num) => {   // jabhi bhi arrow function block {} create k to return key daalna            padega                                 padega nahi value ke place par undrfined aayega 
+const num = myNum.map( (num) => {   // jabhi bhi arrow function block {} create k to return key daalna padega                                 padega nahi value ke place par undrfined aayega 
     return num * 2
 })
 
 
 
 
-//1.map() -> map method return me ek pura array deta h . jo ki forEach me kabhi bhi return value nahi hoti h vo hamesa undefined return karta h because forEach bhi apneaap me ek function h.map hamesha pure aaray ke element ko jo bhi condition diya vo pure array ke element par operation karta and then pura array return karta h.
+//1.map() -> map method return me ek pura array deta h .
+//  jo ki forEach me kabhi bhi return value nahi hoti h vo hamesa undefined return karta h because forEach bhi apneaap me ek function h.
+// map hamesha pure aaray ke element ko jo bhi condition diya vo pure array ke element par operation karta and then pura array return karta h.
 
-//2.filter() -> filter ka use karke hum kuchh condition apply karke array ke kuchh parts (eleemnt) ko access kar sakte h jaise database me huge numbers of data hota h kuchh condition deke neccessary data ko access karte h vaisa hi idhar bhi.vaise filter name se hi samjhta h ki chhijo ko filterout karna based on condition .
+//2.filter() -> filter ka use karke hum kuchh condition apply karke array ke kuchh parts (eleemnt) ko access kar sakte h jaise database me huge numbers of data hota h kuchh condition deke neccessary data ko access karte h vaisa hi idhar bhi.
+// vaise filter name se hi samjhta h ki chhijo ko filterout karna based on condition .
 
 const myfriends = ['Anurag', 'Neha', 'Ankul', 'manish', 'Sarwadeep']
 

@@ -1,4 +1,4 @@
-//  alert('Your Message goes here.')
+// alert('Your Message goes here.')
 // const alertResult = alert("c")
 // confirm('Your Message goes here.')
 // const isConfirmed = confirm('Your message goes here')

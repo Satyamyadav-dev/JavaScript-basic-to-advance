@@ -41,7 +41,8 @@ subtract()
 
 console.log('Program Ended')
 
-//Lexical Scope -> suppose ek function create kiya aur uske andar ek inner function create kiya to inner function outer function ke scope(variable properties) ko access kar sakta but outer function can not access the scope of inner function.closure bhi yahi same tarike se kaam karta h.
+//Lexical Scope -> suppose ek function create kiya aur uske andar ek inner function create kiya to inner function outer function ke scope(variable properties) ko access kar sakta but outer function can not access the scope of inner function.
+// closure bhi yahi same tarike se kaam karta h.
 
 
 // Block Scope -> kisi bhi block me agar const, let ka use kiya usko sirf within the block hi acees ka sakta hu but in case var we can access it within or outside of the block i alredy knew this concept fron began.

@@ -18,4 +18,6 @@ const maths = {
 
 
 
-// apna normal function to function hota h par usi function ko hum object ke andar daal dete h to method use bolte h.accha function ka syntax notice karta hoga yaha function name du ya na du kuchh farak nahi padta kyu ki vo name se nahi access hoga usko ek key dena padega . aur object ke element ko key se hi to access karte h. 
+// apna normal function to function hota h par usi function ko hum object ke andar daal dete h to method use bolte h.
+// accha function ka syntax notice karta hoga yaha function name du ya na du kuchh farak nahi padta kyu ki vo name se nahi access hoga usko ek key dena padega .
+//  aur object ke element ko key se hi to access karte h. 
